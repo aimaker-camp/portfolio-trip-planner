@@ -124,7 +124,7 @@ export default function App() {
       {/* Masthead — newspaper / magazine top */}
       <header className="mast">
         <div className="mast-row">
-          <a href="https://ai-class-summer.vercel.app/portfolio" className="mast-back">
+          <a href="https://themakerscamp.com/portfolio" className="mast-back">
             ← BACK TO PORTFOLIO
           </a>
           <span className="mast-issue">ISSUE Nº 03 ・ TRAVEL DEPT.</span>
@@ -219,7 +219,7 @@ export default function App() {
 
       <footer className="mag-footer">
         <p>This work was made by AI. 你的孩子上完 4 週課,也能做出自己的版本。</p>
-        <a href="https://ai-class-summer.vercel.app/#register" className="cta">
+        <a href="https://themakerscamp.com/#register" className="cta">
           看看 AI 造物營 →
         </a>
       </footer>
